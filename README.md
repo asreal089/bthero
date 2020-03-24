@@ -1,4 +1,4 @@
-# bthero
+# BTHERO
 oministack-week-11 projeto usando Nodejs e React
 
 # Front-End
