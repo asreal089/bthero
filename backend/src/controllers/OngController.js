@@ -1,8 +1,6 @@
 const crypto = require('crypto')
-const express = require('express');
 
 const connection = require('../database/connections');
-const routes = express.Router();
 
 module.exports = {
     async create(req, res){
